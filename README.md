@@ -1,3 +1,3 @@
 # project-demo
-My first Demo Repository
+My first project Repository
 Author name  [Zulqarnain]
